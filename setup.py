@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "REPO_NAME"
-AUTHOR_USER_NAME = "c17hawke"
+REPO_NAME = "Pytorch_CNN_TextGenUsing_GPT2"
+AUTHOR_USER_NAME = "Asif-AI"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
