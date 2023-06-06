@@ -1,5 +1,5 @@
-# dvc-project-template
-DVC project template
+# Pytorch_CNN_TextGenUsingGPT2
+DVC project
 
 ## STEPS -
 
